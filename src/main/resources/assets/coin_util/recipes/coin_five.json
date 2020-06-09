@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CCB",
+        "   ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "coin_util:coin_four"
+        },
+         "B":
+        {
+            "item": "coin_util:coin_three"
+        }
+    },
+    
+    "result":
+    {
+        "item": "coin_util:coin_five",
+        "count": 1
+    }
+}

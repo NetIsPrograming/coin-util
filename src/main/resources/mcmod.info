@@ -1,0 +1,16 @@
+[
+{
+  "modid": "coin_util",
+  "name": "Coin Util",
+  "description": "Howdy, Partner.",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["chase120908"],
+  "credits": "me and myself",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

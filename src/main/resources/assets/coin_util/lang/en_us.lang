@@ -1,0 +1,8 @@
+//Items
+item.coin_one.name=§b§nCoin§6 $1§r
+item.coin_two.name=§b§nCoin§6 $5§r
+item.coin_three.name=§b§nCoin§6 $10§r
+item.coin_four.name=§b§nCoin§6 $20§r
+item.coin_five.name=§b§nCoin§6 $50§r
+item.coin_six.name=§b§nCoin§6 $100§r
+

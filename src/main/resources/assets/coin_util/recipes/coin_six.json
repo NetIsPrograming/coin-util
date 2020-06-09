@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CC ",
+        "   ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "coin_util:coin_five"
+        }
+    },
+    
+    "result":
+    {
+        "item": "coin_util:coin_six",
+        "count": 1
+    }
+}
